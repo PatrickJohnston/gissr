@@ -2,7 +2,6 @@
 
 export(distance_by_haversine)
 export(get_sunrise)
-export(google_elevation)
 export(google_geocode)
 export(leaflet_plot)
 export(left_join_raster)
